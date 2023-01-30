@@ -81,12 +81,6 @@ python predict.py model=yolov8x-seg.pt source="test1.mp4"
 
 ![](./ultralytics/figure2.png)
 
-### Watch the Complete Step by Step Explanation
-
-- Video Tutorial Link  [`YouTube Link`](https://www.youtube.com/watch?v=0JIPNk21ivU)
-
-
-[![Watch the Complete Tutorial for the Step by Step Explanation](https://img.youtube.com/vi/0JIPNk21ivU/0.jpg)]([https://www.youtube.com/watch?v=0JIPNk21ivU&t=244s](https://www.youtube.com/watch?v=0JIPNk21ivU))
 
 
 ## References
